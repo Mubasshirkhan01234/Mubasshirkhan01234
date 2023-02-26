@@ -1,6 +1,6 @@
 "### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Mubasshir-Khan-red)](https://www.youtube.com/channel/UCmesEMATz4e55a89jX1uxQg)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Mubasshir-red)](https://www.youtube.com/channel/UCmesEMATz4e55a89jX1uxQg)
 [![Linkedin Badge](https://img.shields.io/badge/-Mubasshir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mubasshir-khan-b049b0196/)](https://www.linkedin.com/in/mubasshir-khan-b049b0196/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Mubasshir-green)](https://www.mubass)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Mubasshir-yellow)](https://stackoverflow.com/users/21159874/mubasshir-khan)
